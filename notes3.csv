@@ -1,0 +1,5 @@
+StaffMember{SNL='Иванов Иван Иванович', Job='Слесарь', hours=200, pricePerHour=120.0}
+StaffMember{SNL='Петров Петр Петрович', Job='Повар', hours=300, pricePerHour=123.0}
+StaffMember{SNL='Хакеров Хакер Андреевич', Job='Программист', hours=1000, pricePerHour=120.0}
+PartTimeMember{PartTimeJob='Египтолог', hoursPartTimeJob=23, pricePartTimeJobHour=123.0}
+PartTimeMember{PartTimeJob='Арахнолог', hoursPartTimeJob=29, pricePartTimeJobHour=333.0}
